@@ -25,10 +25,10 @@ $ workon fortuneskill
 
 Say one of the trigger phrases:
 
-"Mycroft, tell me my fortune"
-"Mycroft, read me a fortune"
-"Mycroft, tell my fortune"
-"Mycroft, tell me a fortune"
+* "Mycroft, tell me my fortune"
+* "Mycroft, read me a fortune"
+* "Mycroft, tell my fortune"
+* "Mycroft, tell me a fortune"
 
 
 ## Known Issues
